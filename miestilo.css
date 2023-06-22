@@ -26,6 +26,7 @@ body {
     font-size: 20px;
     margin-bottom: 10px;
     color: #555;
+    margin: 30px;
   }
   
   p {
@@ -64,6 +65,9 @@ body {
     background-color: rgb(156, 189, 156);
   }
 
+  nav {
+    text-align: center;
+  }
 
   /* Estilos para el encabezado y el pie de página */
   header, footer {
